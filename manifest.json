@@ -1,11 +1,11 @@
 ﻿{
-  "version": "2.0.4",
+  "version": "2.0.5",
   "contains_personal_database": false,
   "contains_seed_database": false,
-  "release_notes": "Correção do instalador automático e reinício após atualização.",
+  "release_notes": "Teste final do sistema de atualização automática.",
   "installer": {
-    "file": "Financas-Pessoal-Update-Setup-2.0.4.exe",
-    "sha256": "FFE9DB5C1828A9CAA3B3BC7CD4E908B578227751DC246EDA8DC752790D3FC3E1",
-    "url": "https://github.com/lpastorea/financas-updates/releases/download/v2.0.4/Financas-Pessoal-Update-Setup-2.0.4.exe"
+    "file": "Financas-Pessoal-Update-Setup-2.0.5.exe",
+    "sha256": "9A5395D32C5C5EF800FCFAD55E0BA6A5A33AA269E601585EDE933539A6D31E16",
+    "url": "https://github.com/lpastorea/financas-updates/releases/download/v2.0.5/Financas-Pessoal-Update-Setup-2.0.5.exe"
   }
 }
